@@ -1,0 +1,22 @@
+.button{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   position: fixed;
+   width: 80%;
+   bottom: 0;
+   height: 50px;
+   margin-left: 150px;
+   margin-bottom: 100px;
+   background-color: white;
+   border:2px solid black;
+   border-radius: 10px;
+}
+.bt{
+  width: 200px;
+  height: 80%;
+  border: 5px solid blue;
+  border-radius: 10px;
+  margin: 5px 5px 5px 5px;z̧
+}
